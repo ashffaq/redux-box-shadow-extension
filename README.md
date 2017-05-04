@@ -16,7 +16,7 @@ You should have knowledge about how to install extensions in Redux Framwork.
 This link may help you.
 https://docs.reduxframework.com/core/advanced/loading-extensions/
 
-<h2>Itnitialize box shadow field in theme options file</h2>
+<h2>Initialize box shadow field in theme options file</h2>
 <code>
 <pre>
 array(         
