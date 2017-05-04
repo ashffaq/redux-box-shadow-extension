@@ -6,12 +6,13 @@ Redux Framework Box Shadow Extensio is an Extension for well known WordPress the
 <h2>Preview</h2>
 <a href="https://www.youtube.com/watch?v=fsTI1jaymtA" target="_blank">
 <img src="https://upload.vstanced.com/images/2017/05/04/k6s.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+alt="IMAGE ALT TEXT HERE" border="10" style="width: 100%;"/>
 </a>
 
 
 <h2>How to Include in Redux Framework?</h2>
-You should have knowledge about how to install extensions in Redux Framwork
+You should have knowledge about how to install extensions in Redux Framwork.
+
 This link may help you.
 https://docs.reduxframework.com/core/advanced/loading-extensions/
 
