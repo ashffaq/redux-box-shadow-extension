@@ -20,22 +20,23 @@ https://docs.reduxframework.com/core/advanced/loading-extensions/
 <code>
 <pre>
 array(         
-	'id'       => 'box-shadow',
-	'type'     => 'box_shadow',
-	'title'    => __('Box Shadow', 'redux-framework-demo'),
-	'units'    => array( 'px', 'em', 'rem' ),
-	'output' =>  ( '.header' ),
-	'opacity' => true,
-	'default'  => array ( 
-		'horizontal' => '5px', // can be negative value
-		'vertical' => '5px', // can be negative value
-		'blur' => '5px',
-		'spread' => '5px',
-		'opacity' => '1.0',
-		'shadow-color' => '#f71313',
-		'shadow-type' => 'inset', // 'inset' or 'outside'
-		'units'    => 'px',
-	),
+    'id'      => 'box-shadow',
+    'type'    => 'box_shadow',
+    'title'   => __('Box Shadow', 'redux-framework-demo'),
+    'units'   => array( 'px', 'em', 'rem' ),
+    'output'  => ( '.header' ),
+    'opacity' => true,
+    'rgba'    => true,
+    'default' => array (
+        'horizontal'   => '5px', // can be negative value
+        'vertical'     => '5px', // can be negative value
+        'blur'         => '5px',
+        'spread'       => '5px',
+        'opacity'      => '1.0',
+        'shadow-color' => '#f71313',
+        'shadow-type'  => 'inset', // 'inset' or 'outside'
+        'units'        => 'px',
+    ),
 ),
 </pre>
 </code>
